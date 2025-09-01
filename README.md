@@ -59,6 +59,12 @@ Os usuários podem navegar por diferentes seções para aprender sobre:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+<div>
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecamaciel777&repo=neuvillette2a2z00ixo-rebecamaciel777s-projects&layout=compact&theme=react)
+  
+</div>
+
 ---
 
 ## 🖼️ Screenshots | Capturas de Tela
@@ -85,4 +91,6 @@ Os usuários podem navegar por diferentes seções para aprender sobre:
 - Conteúdo educativo sobre **Neuvillette** para fãs de Genshin Impact.
 
 ---
+
+
 
